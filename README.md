@@ -7,6 +7,7 @@ A list of data sets available on the CMZ
  * [Ginsburg+ APEX CMZ 1mm survey](https://dataverse.harvard.edu/dataverse/APEX-CMZ-1mm)
  * [Dame+ 1.2m Cfa CO](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:10904/10006)
  * [Walsh+ HOPS 22 GHzish](http://awalsh.ivec.org/hops/public/index.php)
+ * [Ott+ SWAG (data forthcoming...)](https://sites.google.com/site/atcaswag/home)
 
 ## Sgr B2
 
