@@ -11,6 +11,11 @@ A list of data sets available on the CMZ
  * [Jones MOPRA SgrB2 3mm survey](http://newt.phys.unsw.edu.au/mopracmz/survey.html#sgrb2_3mm_table)
 
 
+## Spectral Surveys:
 | Name | Frequency Range | Telescope | Spatial Resolution | Spectral Resolution | Spatial Coverage | Sensitivity | Named Targets | Lines |
 |---|---|---|---|---|---|---|---|---|
 | [Jones+ 2012](http://newt.phys.unsw.edu.au/mopracmz/)   | 85-93 GHz | MOPRA  | 40"  | 0.9 km/s  | -2.5 < l < 2.5, -0.5 < b < 0.5 | 42-83 mK/chan  | CMZ  | Lots  |
+
+
+## Continuum Surveys:
+
