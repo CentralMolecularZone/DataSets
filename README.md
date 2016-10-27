@@ -5,6 +5,7 @@ A list of data sets available on the CMZ
 
  * [Jones MOPRA CMZ 3mm survey](http://newt.phys.unsw.edu.au/mopracmz/)
  * [Ginsburg+ APEX CMZ 1mm survey](https://dataverse.harvard.edu/dataverse/APEX-CMZ-1mm)
+ * [Dame+ 1.2m Cfa CO](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:10904/10006)
 
 ## Sgr B2
 
