@@ -9,3 +9,6 @@ A list of data sets available on the CMZ
 ## Sgr B2
 
  * [Jones MOPRA SgrB2 3mm survey](http://newt.phys.unsw.edu.au/mopracmz/survey.html#sgrb2_3mm_table)
+
+
+bad data
