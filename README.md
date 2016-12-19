@@ -9,6 +9,7 @@ A list of data sets available on the CMZ
  * [Walsh+ HOPS 22 GHzish](http://awalsh.ivec.org/hops/public/index.php)
  * [Ott+ SWAG (data forthcoming...)](https://sites.google.com/site/atcaswag/home)
  * [Martin+ 2003 AST/RO CO 4-3, 7-6 & CI](https://www.cfa.harvard.edu/~aas/adair/www-docs/AST_RO/abc.html)
+ * [Battersby/Keto+ SMA CMZ "CMZoom"](https://www.cfa.harvard.edu/sma/LargeScale/CMZ/)
 
 ## Sgr B2
 
