@@ -8,6 +8,7 @@ A list of data sets available on the CMZ
  * [Dame+ 1.2m Cfa CO](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:10904/10006)
  * [Walsh+ HOPS 22 GHzish](http://awalsh.ivec.org/hops/public/index.php)
  * [Ott+ SWAG (data forthcoming...)](https://sites.google.com/site/atcaswag/home)
+ * [Martin+ 2003 AST/RO CO 4-3, 7-6 & CI](https://www.cfa.harvard.edu/~aas/adair/www-docs/AST_RO/abc.html)
 
 ## Sgr B2
 
