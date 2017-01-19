@@ -10,7 +10,7 @@ A list of data sets available on the CMZ
  * [Ott+ SWAG (data forthcoming...)](https://sites.google.com/site/atcaswag/home)
  * [Martin+ 2003 AST/RO CO 4-3, 7-6 & CI](https://www.cfa.harvard.edu/~aas/adair/www-docs/AST_RO/abc.html)
  * [Battersby/Keto+ SMA CMZ "CMZoom"](https://www.cfa.harvard.edu/sma/LargeScale/CMZ/)
- * [Pierce-Price+ SCUBA survey](http://adsabs.harvard.edu/abs/2000ApJ...545L.121P) Anyone know where to get these data?  [SCUBA Legacy Catalogue](http://www3.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/community/scubalegacy/)
+ * [Pierce-Price+ SCUBA survey](http://adsabs.harvard.edu/abs/2000ApJ...545L.121P) Anyone know where to get these data?  The [SCUBA Legacy Catalogue](http://www3.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/community/scubalegacy/) includes some of this data; [mosaics from the SLS are on dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FK4GWMI)
  * [Bally+ SHARC survey](http://adsabs.harvard.edu/abs/2010ApJ...721..137B) [data link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FPOIZX0)
 
 ## Sgr B2
