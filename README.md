@@ -12,6 +12,7 @@ A list of data sets available on the CMZ
  * [Battersby/Keto+ SMA CMZ "CMZoom"](https://www.cfa.harvard.edu/sma/LargeScale/CMZ/)
  * [Pierce-Price+ SCUBA survey](http://adsabs.harvard.edu/abs/2000ApJ...545L.121P) Anyone know where to get these data?  The [SCUBA Legacy Catalogue](http://www3.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/community/scubalegacy/) includes some of this data; [mosaics from the SLS are on dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FK4GWMI)
  * [Bally+ SHARC survey](http://adsabs.harvard.edu/abs/2010ApJ...721..137B) [data link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FPOIZX0)
+ * [Bally+ 7m Bell Labs 12 CO 1-0 survey](https://figshare.com/articles/AT_A_Bell_Labs_7_m_12CO_data_Galactic_center/808624)
 
 ## Sgr B2
 
