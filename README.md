@@ -1,5 +1,5 @@
 # DataSets
-A list of data sets available on the CMZ
+A list of data sets available on the CMZ.  To add to this list, submit a pull request!
 
 ## Whole CMZ
 
