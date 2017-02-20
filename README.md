@@ -31,4 +31,5 @@ A list of data sets available on the CMZ
  * [Bally+ SHARC survey](http://adsabs.harvard.edu/abs/2010ApJ...721..137B) [data link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FPOIZX0)
  * [BGPS 1.1mm](http://irsa.ipac.caltech.edu/data/BOLOCAM_GPS/images/v2/INNER_GALAXY/maps/)
  * [ATLASGAL 0.87 mm](http://atlasgal.mpifr-bonn.mpg.de/cgi-bin/ATLASGAL_DATASETS.cgi)
+ * [Herschel Hi-Gal 70, 160, 250, 350, 500um](http://tools.asdc.asi.it/HiGAL.jsp)
  
