@@ -12,7 +12,8 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
  * [Battersby/Keto+ SMA CMZ "CMZoom"](https://www.cfa.harvard.edu/sma/LargeScale/CMZ/)
  * [Bally+ 7m Bell Labs 12 CO 1-0 survey](https://figshare.com/articles/AT_A_Bell_Labs_7_m_12CO_data_Galactic_center/808624)
  * [Barnes+ 2015 ThrUMMs](http://www.astro.ufl.edu/~peterb/research/thrumms/rbank/) CO, CN (l < 0)
- * [Ginsburg+ 2015 ATCA 5 GHz](https://dataverse.harvard.edu/file.xhtml?fileId=2732144&version=1.0) (more data are available, but not yet uploaded)
+ * [Ginsburg+ 2015 ATCA 5 GHz H2CO/CH3OH](https://dataverse.harvard.edu/file.xhtml?fileId=2732144&version=1.0) (more data are available, but not yet uploaded)
+ * [Ginsburg+ GBT 5, 15 GHz H2CO (unpublished)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/I2U8GK&version=1.0)
  
 ## Sgr B2
 
