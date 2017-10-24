@@ -15,6 +15,7 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
  * [Ginsburg+ 2015 ATCA 5 GHz H2CO/CH3OH](https://dataverse.harvard.edu/file.xhtml?fileId=2732144&version=1.0) (more data are available, but not yet uploaded)
  * [Ginsburg+ GBT 5, 15 GHz H2CO (unpublished)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/I2U8GK&version=1.0)
  * [Pound+ 2017 CARMA 3mm survey](http://hdl.handle.net/1903/20049)
+ * [Oka+ 1998 Nobeyama 12CO and 13CO](https://aysheaia.phys.keio.ac.jp/data.html)
  
 ## Sgr B2
 
