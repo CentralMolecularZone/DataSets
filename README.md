@@ -21,6 +21,7 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
 ## Sgr B2
 
  * [Jones MOPRA SgrB2 3mm survey](http://newt.phys.unsw.edu.au/mopracmz/survey.html#sgrb2_3mm_table)
+ * [Ginsburg ALMA SgrB2 3mm mosaic](http://apps.canfar.net/storage/list/AstroDataCitationDOI/CISTI.CANFAR/17.0007/data/)
 
 
 ## Spectral Surveys:
