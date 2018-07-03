@@ -34,6 +34,7 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
 
  * [Law+ GBT 2-10 GHz (give or take)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28866)
  * [Pierce-Price+ SCUBA survey](http://adsabs.harvard.edu/abs/2000ApJ...545L.121P) Anyone know where to get these data?  The [SCUBA Legacy Catalogue](http://www3.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/community/scubalegacy/) includes some of this data; [mosaics from the SLS are on dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FK4GWMI)
+ * [Parsons+ 2018 SCUBA-2 survey](https://doi.org/10.11570/17.0009), [paper](https://ui.adsabs.harvard.edu/#abs/2018ApJS..234...22P/abstract)
  * [Bally+ SHARC survey](http://adsabs.harvard.edu/abs/2010ApJ...721..137B) [data link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FPOIZX0)
  * [BGPS 1.1mm](http://irsa.ipac.caltech.edu/data/BOLOCAM_GPS/images/v2/INNER_GALAXY/maps/)
  * [ATLASGAL 0.87 mm](http://atlasgal.mpifr-bonn.mpg.de/cgi-bin/ATLASGAL_DATASETS.cgi)
