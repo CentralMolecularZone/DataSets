@@ -24,6 +24,9 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
  * [Jones MOPRA SgrB2 3mm survey](http://newt.phys.unsw.edu.au/mopracmz/survey.html#sgrb2_3mm_table)
  * [Ginsburg ALMA SgrB2 3mm mosaic](http://apps.canfar.net/storage/list/AstroDataCitationDOI/CISTI.CANFAR/17.0007/data/)
 
+## Dust Ridge
+
+ * [Lu SMA+VLA observations](https://zenodo.org/record/1436909) [paper](https://arxiv.org/abs/1901.07779v1)
 
 ## Spectral Surveys:
 | Name | Frequency Range | Telescope | Spatial Resolution | Spectral Resolution | Spatial Coverage | Sensitivity | Named Targets | Lines |
