@@ -18,6 +18,7 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
  * [Oka+ 1998 Nobeyama 12CO and 13CO](https://aysheaia.phys.keio.ac.jp/data.html)
  * [Tanaka+ 2018 Nobeyama HCN J=4–3, HNC J=1–0, H13CN J=1–0, and HC3N J=10–9](http://www.nro.nao.ac.jp/~nro45mrt/html/results/data.html) (note: the [paper](http://arxiv.org/abs/1804.00666) refers to this URL, but the data still are not there)
  * [Parsons+ 2018 JCMT CO 3-2](https://ui.adsabs.harvard.edu/#abs/2018ApJS..234...22P), [data](http://apps.canfar.net/storage/list/AstroDataCitationDOI/CISTI.CANFAR/17.0009/data/)
+ * [Schuller+ 2017 APEX 13CO 2-1](https://arxiv.org/abs/1701.04712) not yet released, will become public sometime
  
 ## Sgr B2
 
