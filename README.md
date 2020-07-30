@@ -20,6 +20,7 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
  * [Parsons+ 2018 JCMT CO 3-2](https://ui.adsabs.harvard.edu/#abs/2018ApJS..234...22P), [data](http://apps.canfar.net/storage/list/AstroDataCitationDOI/CISTI.CANFAR/17.0009/data/)
  * [Schuller+ 2017 APEX 13CO 2-1](https://arxiv.org/abs/1701.04712) not yet released, will become public sometime
  * [Kim+ 2018 Paschen Alpha survey](https://ui.adsabs.harvard.edu/#abs/2018ApJS..238...28K/abstract); [retrieval script](get_miris_mosaic.py) - paper covers outer galaxy, but data covers CMZ.
+ * [McClure-Griffiths+ 2012 ATCA HI Galactic Center Survey](https://www.atnf.csiro.au/research/HI/sgps/GalacticCenter/Data.html)
 
  
  
