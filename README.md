@@ -19,6 +19,9 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
  * [Tanaka+ 2018 Nobeyama HCN J=4–3, HNC J=1–0, H13CN J=1–0, and HC3N J=10–9](http://www.nro.nao.ac.jp/~nro45mrt/html/results/data.html) (note: the [paper](http://arxiv.org/abs/1804.00666) refers to this URL, but the data still are not there)
  * [Parsons+ 2018 JCMT CO 3-2](https://ui.adsabs.harvard.edu/#abs/2018ApJS..234...22P), [data](http://apps.canfar.net/storage/list/AstroDataCitationDOI/CISTI.CANFAR/17.0009/data/)
  * [Schuller+ 2017 APEX 13CO 2-1](https://arxiv.org/abs/1701.04712) not yet released, will become public sometime
+ * [Kim+ 2018 Paschen Alpha survey](https://ui.adsabs.harvard.edu/#abs/2018ApJS..238...28K/abstract); [retrieval script](get_miris_mosaic.py) - paper covers outer galaxy, but data covers CMZ.
+
+ 
  
 ## Sgr B2
 
@@ -28,6 +31,10 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
 ## Dust Ridge
 
  * [Lu SMA+VLA observations](https://zenodo.org/record/1436909) [paper](https://arxiv.org/abs/1901.07779v1)
+
+## Inner CMZ (inside Brick)
+
+ * [Wang+ 2010 Paschen Alpha HST-NICMOS](https://ui.adsabs.harvard.edu/abs/2010MNRAS.402..895W/abstract) and [data site](https://archive.stsci.edu/prepds/hpsgc/)
 
 ## Spectral Surveys:
 | Name | Frequency Range | Telescope | Spatial Resolution | Spectral Resolution | Spatial Coverage | Sensitivity | Named Targets | Lines |
