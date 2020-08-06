@@ -52,4 +52,5 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
  * [BGPS 1.1mm](http://irsa.ipac.caltech.edu/data/BOLOCAM_GPS/images/v2/INNER_GALAXY/maps/)
  * [ATLASGAL 0.87 mm](http://atlasgal.mpifr-bonn.mpg.de/cgi-bin/ATLASGAL_DATASETS.cgi)
  * [Herschel Hi-Gal 70, 160, 250, 350, 500um](http://tools.asdc.asi.it/HiGAL.jsp)
+ * [Marsh+ PPMAP maps](http://www.astro.cardiff.ac.uk/research/ViaLactea/PPMAP_Results/l000_results/)
  
