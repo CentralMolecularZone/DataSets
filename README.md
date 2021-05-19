@@ -24,10 +24,10 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
  * [Eden+ 2020 CHIMPS2 12CO Survey](https://www.canfar.net/citation/landing?doi=20.0004)
  * SOFIA CII surveys: [Guesten Sgr C](https://irsa.ipac.caltech.edu/data/SOFIA/GREAT/L4/p9109/data/Cycle6_GR_OT_06_0157_RGuesten_SgrC_CII.lmv.fits) [Bally strip map](https://irsa.ipac.caltech.edu/data/SOFIA/GREAT/L4/p9101/data/Cycle5_GR_OT_05_0076_JBally_OCMZ_STR6_CII.lmv.fits) [Harris Sgr A](https://irsa.ipac.caltech.edu/data/SOFIA/GREAT/L4/p9112/data/Cycle6_GR_OT_06_0173_AHarris_SgrA_CII.lmv.fits) [Ragan G0.4](https://irsa.ipac.caltech.edu/data/SOFIA/GREAT/L4/p9105/data/Cycle5_GR_OT_05_0021_SRagan_G0P40_CII.lmv.fits)
  * [García et al. 2016: Sgr A Complex Submm Observations [CII] @ 158 um, [NII] @ 205 um, [CI] @ 809 GHz, [CI] @ 492 GHz, CO(4-3) @ 461 GHz](https://ui.adsabs.harvard.edu/abs/2016A%26A...588A.131G/abstract)
- 
 
- 
- 
+
+
+
 ## Sgr B2
 
  * [Jones MOPRA SgrB2 3mm survey](http://newt.phys.unsw.edu.au/mopracmz/survey.html#sgrb2_3mm_table)
@@ -36,6 +36,8 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
 ## Dust Ridge
 
  * [Lu SMA+VLA observations](https://zenodo.org/record/1436909) [paper](https://arxiv.org/abs/1901.07779v1)
+
+ * [Walker ALMA Brick observations](https://dataverse.harvard.edu/dataverse/2016_1_00949_S_Brick) [paper](https://ui.adsabs.harvard.edu/abs/2021arXiv210203560W/abstract)
 
 ## Inner CMZ (inside Brick)
 
@@ -58,4 +60,3 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
  * [Herschel Hi-Gal 70, 160, 250, 350, 500um](http://tools.asdc.asi.it/HiGAL.jsp)
  * [Marsh+ PPMAP maps](http://www.astro.cardiff.ac.uk/research/ViaLactea/PPMAP_Results/l000_results/)
  * [AzTEC 1.1mm](https://github.com/tangyping/products)
- 
