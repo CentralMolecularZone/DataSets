@@ -59,4 +59,4 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
  * [ATLASGAL 0.87 mm](http://atlasgal.mpifr-bonn.mpg.de/cgi-bin/ATLASGAL_DATASETS.cgi)
  * [Herschel Hi-Gal 70, 160, 250, 350, 500um](http://tools.asdc.asi.it/HiGAL.jsp)
  * [Marsh+ PPMAP maps](http://www.astro.cardiff.ac.uk/research/ViaLactea/PPMAP_Results/l000_results/)
- * [AzTEC 1.1mm](https://github.com/tangyping/products)
+ * [AzTEC 1.1mm](https://github.com/tangyping/products) [Tang+ 2020](https://ui.adsabs.harvard.edu/abs/2020arXiv200812361T/abstract), [Tang+ 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.1173T/abstract)
