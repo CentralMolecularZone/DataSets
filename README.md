@@ -16,7 +16,7 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
  * [Ginsburg+ GBT 5, 15 GHz H2CO (unpublished)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/I2U8GK&version=1.0)
  * [Pound+ 2017 CARMA 3mm survey](http://hdl.handle.net/1903/20049)
  * [Oka+ 1998 Nobeyama 12CO and 13CO](https://aysheaia.phys.keio.ac.jp/data.html)
- * [Tanaka+ 2018 Nobeyama HCN J=4–3, HNC J=1–0, H13CN J=1–0, and HC3N J=10–9](http://www.nro.nao.ac.jp/~nro45mrt/html/results/data.html) (note: the [paper](http://arxiv.org/abs/1804.00666) refers to this URL, but the data still are not there)
+ * [Tanaka+ 2018 Nobeyama HCN J=4–3, HNC J=1–0, H13CN J=1–0, and HC3N J=10–9](http://www.nro.nao.ac.jp/~nro45mrt/html/results/data.html)  [paper](http://arxiv.org/abs/1804.00666) 
  * [Parsons+ 2018 JCMT CO 3-2](https://ui.adsabs.harvard.edu/#abs/2018ApJS..234...22P), [data](http://apps.canfar.net/storage/list/AstroDataCitationDOI/CISTI.CANFAR/17.0009/data/)
  * [Kim+ 2018 Paschen Alpha survey](https://ui.adsabs.harvard.edu/#abs/2018ApJS..238...28K/abstract); [retrieval script](get_miris_mosaic.py) - paper covers outer galaxy, but data covers CMZ.
  * [McClure-Griffiths+ 2012 ATCA HI Galactic Center Survey](https://www.atnf.csiro.au/research/HI/sgps/GalacticCenter/Data.html)
