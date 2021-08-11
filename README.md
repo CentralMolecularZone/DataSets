@@ -19,7 +19,7 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
  * [Tanaka+ 2018 Nobeyama HCN J=4–3, HNC J=1–0, H13CN J=1–0, and HC3N J=10–9](http://www.nro.nao.ac.jp/~nro45mrt/html/results/data.html)  [paper](http://arxiv.org/abs/1804.00666) 
  * [Parsons+ 2018 JCMT CO 3-2](https://ui.adsabs.harvard.edu/#abs/2018ApJS..234...22P), [data](http://apps.canfar.net/storage/list/AstroDataCitationDOI/CISTI.CANFAR/17.0009/data/)
  * [Kim+ 2018 Paschen Alpha survey](https://ui.adsabs.harvard.edu/#abs/2018ApJS..238...28K/abstract); [retrieval script](get_miris_mosaic.py) - paper covers outer galaxy, but data covers CMZ.
- * [McClure-Griffiths+ 2012 ATCA HI Galactic Center Survey](https://www.atnf.csiro.au/research/HI/sgps/GalacticCenter/Data.html)
+ * [McClure-Griffiths+ 2012 ATCA HI Galactic Center Survey](https://www.atnf.csiro.au/research/HI/sgps/GalacticCenter/Data.html) [paper](https://ui.adsabs.harvard.edu/abs/2012ApJS..199...12M/abstract)
  * [Schuller+2020 SEDIGISM APEX 13CO and C18O Survey](http://sedigism.mpifr-bonn.mpg.de/)
  * [Eden+ 2020 CHIMPS2 12CO Survey](https://www.canfar.net/citation/landing?doi=20.0004)
  * SOFIA CII surveys: [Guesten Sgr C](https://irsa.ipac.caltech.edu/data/SOFIA/GREAT/L4/p9109/data/Cycle6_GR_OT_06_0157_RGuesten_SgrC_CII.lmv.fits) [Bally strip map](https://irsa.ipac.caltech.edu/data/SOFIA/GREAT/L4/p9101/data/Cycle5_GR_OT_05_0076_JBally_OCMZ_STR6_CII.lmv.fits) [Harris Sgr A](https://irsa.ipac.caltech.edu/data/SOFIA/GREAT/L4/p9112/data/Cycle6_GR_OT_06_0173_AHarris_SgrA_CII.lmv.fits) [Ragan G0.4](https://irsa.ipac.caltech.edu/data/SOFIA/GREAT/L4/p9105/data/Cycle5_GR_OT_05_0021_SRagan_G0P40_CII.lmv.fits)
