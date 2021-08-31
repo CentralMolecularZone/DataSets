@@ -36,10 +36,11 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
 ## Dust Ridge
 
  * [Lu SMA+VLA observations](https://zenodo.org/record/1436909) [paper](https://arxiv.org/abs/1901.07779v1)
-
+ * [Lu ALMA 1.3mm observations of 20, 50 kms clouds](https://zenodo.org/record/4740418#.YS5UeIhKguU)
+ * [Lu VLA 6cm data covering dust ridge, 20, 50 kms clouds, Sgr B2](https://zenodo.org/record/3361116) [paper](https://doi.org/10.3847/1538-4365/ab4258)
  * [Walker ALMA Brick observations](https://dataverse.harvard.edu/dataverse/2016_1_00949_S_Brick) [paper](https://ui.adsabs.harvard.edu/abs/2021arXiv210203560W/abstract)
 
- * [Lu VLA 6cm data](https://zenodo.org/record/3361116) [paper](https://doi.org/10.3847/1538-4365/ab4258)
+ 
 
 ## Inner CMZ (inside Brick)
 
