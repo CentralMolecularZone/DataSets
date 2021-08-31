@@ -39,6 +39,8 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
 
  * [Walker ALMA Brick observations](https://dataverse.harvard.edu/dataverse/2016_1_00949_S_Brick) [paper](https://ui.adsabs.harvard.edu/abs/2021arXiv210203560W/abstract)
 
+ * [Lu VLA 6cm data](https://zenodo.org/record/3361116) [paper](https://doi.org/10.3847/1538-4365/ab4258)
+
 ## Inner CMZ (inside Brick)
 
  * [Wang+ 2010 Paschen Alpha HST-NICMOS](https://ui.adsabs.harvard.edu/abs/2010MNRAS.402..895W/abstract) and [data site](https://archive.stsci.edu/prepds/hpsgc/)
