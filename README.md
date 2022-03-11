@@ -24,6 +24,7 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
  * [Eden+ 2020 CHIMPS2 12CO Survey](https://www.canfar.net/citation/landing?doi=20.0004)
  * SOFIA CII surveys: [Guesten Sgr C](https://irsa.ipac.caltech.edu/data/SOFIA/GREAT/L4/p9109/data/Cycle6_GR_OT_06_0157_RGuesten_SgrC_CII.lmv.fits) [Bally strip map](https://irsa.ipac.caltech.edu/data/SOFIA/GREAT/L4/p9101/data/Cycle5_GR_OT_05_0076_JBally_OCMZ_STR6_CII.lmv.fits) [Harris Sgr A](https://irsa.ipac.caltech.edu/data/SOFIA/GREAT/L4/p9112/data/Cycle6_GR_OT_06_0173_AHarris_SgrA_CII.lmv.fits) [Ragan G0.4](https://irsa.ipac.caltech.edu/data/SOFIA/GREAT/L4/p9105/data/Cycle5_GR_OT_05_0021_SRagan_G0P40_CII.lmv.fits)
  * [García et al. 2016: Sgr A Complex Submm Observations [CII] @ 158 um, [NII] @ 205 um, [CI] @ 809 GHz, [CI] @ 492 GHz, CO(4-3) @ 461 GHz](https://ui.adsabs.harvard.edu/abs/2016A%26A...588A.131G/abstract)
+ * [Ginsburg et al. 2020: MUSTANG Galactic Plane Survey](https://ui.adsabs.harvard.edu/abs/2020ApJS..248...24G/abstract) [dataverse link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HPATJB)
 
 
 
