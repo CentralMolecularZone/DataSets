@@ -26,7 +26,7 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
  * [García et al. 2016: Sgr A Complex Submm Observations [CII] @ 158 um, [NII] @ 205 um, [CI] @ 809 GHz, [CI] @ 492 GHz, CO(4-3) @ 461 GHz](https://ui.adsabs.harvard.edu/abs/2016A%26A...588A.131G/abstract)
  * [Ginsburg et al. 2020: MUSTANG Galactic Plane Survey](https://ui.adsabs.harvard.edu/abs/2020ApJS..248...24G/abstract) [dataverse link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HPATJB)
  * [Heywood et al. 2021 MEERKAT 21cm](https://ui.adsabs.harvard.edu/abs/2022ApJ...925..165H/abstract) [data link](https://doi.org/10.48479/fyst-hj47)
-
+ * [Hsieh NRO 45m CS(2-1) OTF map](https://zenodo.org/record/7708322#.ZAiKsnZBy5c)
 
 
 
