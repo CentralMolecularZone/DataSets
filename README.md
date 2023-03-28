@@ -6,7 +6,7 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
  * [Jones MOPRA CMZ 3mm survey](http://newt.phys.unsw.edu.au/mopracmz/)
  * [Ginsburg+ APEX CMZ 1mm survey](https://dataverse.harvard.edu/dataverse/APEX-CMZ-1mm)
  * [Dame+ 1.2m Cfa CO](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:10904/10006)
- * [Walsh+ HOPS 22 GHzish](http://awalsh.ivec.org/hops/public/index.php)
+ * [Walsh+ HOPS 22 GHzish](https://research.science.mq.edu.au/hops/public/data_cubes.php)
  * [Ott+ SWAG (data forthcoming...)](https://sites.google.com/site/atcaswag/home)
  * [Martin+ 2003 AST/RO CO 4-3, 7-6 & CI](https://www.cfa.harvard.edu/~aas/adair/www-docs/AST_RO/abc.html)
  * [Battersby/Keto+ SMA CMZ "CMZoom"](https://www.cfa.harvard.edu/sma/LargeScale/CMZ/)
