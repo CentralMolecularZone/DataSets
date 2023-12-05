@@ -27,22 +27,18 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
  * [Ginsburg et al. 2020: MUSTANG Galactic Plane Survey](https://ui.adsabs.harvard.edu/abs/2020ApJS..248...24G/abstract) [dataverse link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HPATJB)
  * [Heywood et al. 2021 MEERKAT 21cm](https://ui.adsabs.harvard.edu/abs/2022ApJ...925..165H/abstract) [data link](https://doi.org/10.48479/fyst-hj47)
  * [Hsieh NRO 45m CS(2-1) OTF map](https://zenodo.org/record/7708322#.ZAiKsnZBy5c)
-
-
+ * [Lu VLA 6cm data](https://zenodo.org/record/3361116) [paper](https://doi.org/10.3847/1538-4365/ab4258)
 
 ## Sgr B2
 
  * [Jones MOPRA SgrB2 3mm survey](http://newt.phys.unsw.edu.au/mopracmz/survey.html#sgrb2_3mm_table)
  * [Ginsburg ALMA SgrB2 3mm mosaic](http://apps.canfar.net/storage/list/AstroDataCitationDOI/CISTI.CANFAR/17.0007/data/)
 
-## Dust Ridge
+## Dust Ridge + 20&50kms Clouds + Sgr C
 
- * [Lu SMA+VLA observations](https://zenodo.org/record/1436909) [paper](https://arxiv.org/abs/1901.07779v1)
- * [Lu ALMA 1.3mm observations of 20, 50 kms clouds](https://zenodo.org/record/4740418#.YS5UeIhKguU)
- * [Lu VLA 6cm data covering dust ridge, 20, 50 kms clouds, Sgr B2](https://zenodo.org/record/3361116) [paper](https://doi.org/10.3847/1538-4365/ab4258)
- * [Walker ALMA Brick observations](https://dataverse.harvard.edu/dataverse/2016_1_00949_S_Brick) [paper](https://ui.adsabs.harvard.edu/abs/2021arXiv210203560W/abstract)
-
- 
+ * [Lu SMA+VLA observations](https://zenodo.org/record/1436909) [paper](https://ui.adsabs.harvard.edu/abs/2019ApJ...872..171L/abstract)
+ * [Lu ALMA 1.3mm observations](https://zenodo.org/record/4740418#.YS5UeIhKguU) [paper](https://ui.adsabs.harvard.edu/abs/2020ApJ...894L..14L/abstract)
+ * [Walker ALMA Brick observations](https://dataverse.harvard.edu/dataverse/2016_1_00949_S_Brick) [paper](https://ui.adsabs.harvard.edu/abs/2021arXiv210203560W/abstract) 
 
 ## Inner CMZ (inside Brick)
 
@@ -65,3 +61,11 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
  * [Herschel Hi-Gal 70, 160, 250, 350, 500um](http://tools.asdc.asi.it/HiGAL.jsp)
  * [Marsh+ PPMAP maps](http://www.astro.cardiff.ac.uk/research/ViaLactea/PPMAP_Results/l000_results/)
  * [AzTEC 1.1mm](https://github.com/tangyping/products) [Tang+ 2020](https://ui.adsabs.harvard.edu/abs/2020arXiv200812361T/abstract), [Tang+ 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.1173T/abstract)
+
+## Polarization Surveys:
+
+ * [Lu+ JCMT/POL2 850um](https://arxiv.org/abs/2312.01776) [data](https://zenodo.org/records/8409807)
+ * [Butterfield+ SOFIA/HAWC+ 214um](https://arxiv.org/abs/2306.01681)
+ * [Guan+ ACT multiwavelengths 98, 150, and 224 GHz](https://ui.adsabs.harvard.edu/abs/2021ApJ...920....6G/abstract) [data](https://lambda.gsfc.nasa.gov/product/act/actadv_sr_gc_1_get.html)
+ * [Mangilli+ PILOT 240um](https://ui.adsabs.harvard.edu/abs/2019A%26A...630A..74M/abstract) [data](http://cade.irap.omp.eu/dokuwiki/doku.php?id=pilot)
+ * [Matthews JCMT/SCUPOL 850 um](https://ui.adsabs.harvard.edu/abs/2009ApJS..182..143M/abstract) [data](https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/community/scupollegacy/)
