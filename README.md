@@ -28,6 +28,7 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
  * [Heywood et al. 2021 MEERKAT 21cm](https://ui.adsabs.harvard.edu/abs/2022ApJ...925..165H/abstract) [data link](https://doi.org/10.48479/fyst-hj47)
  * [Hsieh NRO 45m CS(2-1) OTF map](https://zenodo.org/record/7708322#.ZAiKsnZBy5c)
  * [Lu VLA 6cm data](https://zenodo.org/record/3361116) [paper](https://doi.org/10.3847/1538-4365/ab4258)
+ * [Anderson+ GBT Diffuse Ionized Gas Survey](http://astro.phys.wvu.edu/gdigs/)
 
 ## Sgr B2
 
