@@ -14,7 +14,7 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
  * [Barnes+ 2015 ThrUMMs](http://www.astro.ufl.edu/~peterb/research/thrumms/rbank/) CO, CN (l < 0)
  * [Ginsburg+ 2015 ATCA 5 GHz H2CO/CH3OH](https://dataverse.harvard.edu/file.xhtml?fileId=2732144&version=1.0) (more data are available, but not yet uploaded)
  * [Ginsburg+ GBT 5, 15 GHz H2CO (unpublished)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/I2U8GK&version=1.0)
- * [Pound+ 2017 CARMA 3mm survey](http://hdl.handle.net/1903/20049)
+ * [Pound+ 2017 CARMA 3mm survey](https://drum.lib.umd.edu/items/d3dab556-f4c1-4dde-b6b8-5c5d330ff2f4)
  * [Oka+ 1998 Nobeyama 12CO and 13CO](https://aysheaia.phys.keio.ac.jp/data.html)
  * [Tanaka+ 2018 Nobeyama HCN J=4–3, HNC J=1–0, H13CN J=1–0, and HC3N J=10–9](http://www.nro.nao.ac.jp/~nro45mrt/html/results/data.html)  [paper](http://arxiv.org/abs/1804.00666) 
  * [Parsons+ 2018 JCMT CO 3-2](https://ui.adsabs.harvard.edu/#abs/2018ApJS..234...22P), [data](http://apps.canfar.net/storage/list/AstroDataCitationDOI/CISTI.CANFAR/17.0009/data/)
