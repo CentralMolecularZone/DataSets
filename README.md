@@ -29,7 +29,7 @@ A list of data sets available on the CMZ.  To add to this list, submit a pull re
  * [Hsieh NRO 45m CS(2-1) OTF map](https://zenodo.org/record/7708322#.ZAiKsnZBy5c)
  * [Lu VLA 6cm data](https://zenodo.org/record/3361116) [paper](https://doi.org/10.3847/1538-4365/ab4258)
  * [Anderson+ GBT Diffuse Ionized Gas Survey](http://astro.phys.wvu.edu/gdigs/)
- * [SOFIA CII Harris, Guesten et al](https://ui.adsabs.harvard.edu/abs/2021ApJ...921...33H/abstract) [SgrA](https://ui.adsabs.harvard.edu/abs/2025ApJ...985..130H/abstract) [Sgr C](https://ui.adsabs.harvard.edu/abs/2026arXiv260413336R/abstract)   [left](https://m-95ab16.55ba.08cc.data.globus.org/orange/adamginsburg/cmz/sofia_cmz/GREAT_data/public/CMZ_CII_gal_final_sgrb.fits) [right](https://m-95ab16.55ba.08cc.data.globus.org/orange/adamginsburg/cmz/sofia_cmz/GREAT_data/public/CMZ_CII_gal_final_sgra.fits)
+ * [SOFIA CII Harris, Guesten et al](https://ui.adsabs.harvard.edu/abs/2021ApJ...921...33H/abstract) [SgrA](https://ui.adsabs.harvard.edu/abs/2025ApJ...985..130H/abstract) [Sgr C](https://ui.adsabs.harvard.edu/abs/2026arXiv260413336R/abstract)   [left](https://starformation.astro.ufl.edu/sofia/CMZ_CII_gal_final_sgrb.fits) [right](https://starformation.astro.ufl.edu/sofia/CMZ_CII_gal_final_sgra.fits)
 
 ## Sgr B2
 
