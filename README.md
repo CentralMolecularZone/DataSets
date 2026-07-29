@@ -53,7 +53,6 @@ The following is a non-exhaustive list of Hierarchical Progressive Survey (HiPS)
 * **García et al. 2016: Sgr A Complex Submm Observations [CII] @ 158 um, [NII] @ 205 um, [CI] @ 809 GHz, [CI] @ 492 GHz, CO(4-3) @ 461 GHz**
   * [paper](https://ui.adsabs.harvard.edu/abs/2016A%26A...588A.131G/abstract)
 * **[Ginsburg+ 2015 ATCA 5 GHz H2CO/CH3OH](https://dataverse.harvard.edu/file.xhtml?fileId=2732144&version=1.0)**
-  * Notes: more data are available, but not yet uploaded
 * **[Ginsburg+ APEX CMZ 1mm survey](https://dataverse.harvard.edu/dataverse/APEX-CMZ-1mm)**
 * **[Ginsburg+ GBT 5, 15 GHz H2CO (unpublished)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/I2U8GK&version=1.0)**
 * **[Hsieh NRO 45m CS(2-1) OTF map](https://zenodo.org/record/7708322#.ZAiKsnZBy5c)**
