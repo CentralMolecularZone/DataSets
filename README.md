@@ -76,7 +76,7 @@ The following is a non-exhaustive list of Hierarchical Progressive Survey (HiPS)
 * **[Tanaka+ 2018 Nobeyama HCN J=4–3, HNC J=1–0, H13CN J=1–0, and HC3N J=10–9](http://www.nro.nao.ac.jp/~nro45mrt/html/results/data.html)**
   * [paper](http://arxiv.org/abs/1804.00666)
 * **[Walsh+ HOPS 22 GHzish](https://web.archive.org/web/20240609212208/http://research.science.mq.edu.au/hops/public/data_cubes.php)**
-  * Notes: live site dead; Wayback Machine mirror above has the full tile list, including the `G357.3-003.9` CMZ tile FITS cubes, e.g. [H2O cube](https://web.archive.org/web/20180414135617/https://research.science.mq.edu.au/hops/public/CUBES/G357.3-003.9-H2O-cube.fits)
+  * Notes: site dead; Wayback Machine mirror has it all
 
 #### Continuum surveys
 
