@@ -30,7 +30,6 @@ The following is a non-exhaustive list of Hierarchical Progressive Survey (HiPS)
 ### Molecular-line surveys
 
 * **[SEDIGISM 13CO cube](https://aladin.cds.unistra.fr/AladinLite/?target=Sgr%20A%2A&fov=4&cooFrame=gal&survey=https%3A%2F%2Falasky.cds.unistra.fr%2FHIPS3D%2FSEDIGISM%2FCDS_C_SEDIGISM_13CO%2F)**
-  * Note: this is a three-dimensional spectral cube available as FITS data, rather than only a two-dimensional image.
 * **[CHIMPS 13CO moment 0 (currently unavailable)](https://aladin.cds.unistra.fr/AladinLite/?target=Sgr%20A%2A&fov=4&cooFrame=gal&survey=https%3A%2F%2Fcade.irap.omp.eu%2Fdocuments%2FAncillary%2F4Aladin%2FCHIMPS_13CO_MOM0%2F)**
 * **[CHIMPS C18O moment 0 (currently unavailable)](https://aladin.cds.unistra.fr/AladinLite/?target=Sgr%20A%2A&fov=4&cooFrame=gal&survey=https%3A%2F%2Fcade.irap.omp.eu%2Fdocuments%2FAncillary%2F4Aladin%2FCHIMPS_C18O_MOM0%2F)**
 
