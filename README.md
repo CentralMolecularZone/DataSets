@@ -124,6 +124,8 @@ The following is a non-exhaustive list of Hierarchical Progressive Survey (HiPS)
   * [paper](https://ui.adsabs.harvard.edu/#abs/2018ApJS..238...28K/abstract)
   * Notes: paper covers outer galaxy, but data covers CMZ.
 * **[Marsh+ PPMAP maps](http://www.astro.cardiff.ac.uk/research/ViaLactea/PPMAP_Results/l000_results/)**
+* **[Feng+ 2026 Herschel/JCMT/CSO/PLANCK SED maps](https://github.com/Linjing2021/CMZ_dustSED)**
+  * [paper](https://ui.adsabs.harvard.edu/abs/2026ApJ...998..224F/abstract)
 
 ### High-energy (X-ray and gamma-ray)
 
