@@ -56,8 +56,11 @@ The following is a non-exhaustive list of Hierarchical Progressive Survey (HiPS)
 * **[Ginsburg+ APEX CMZ 1mm survey](https://dataverse.harvard.edu/dataverse/APEX-CMZ-1mm)**
 * **[Ginsburg+ GBT 5, 15 GHz H2CO (unpublished)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/I2U8GK&version=1.0)**
 * **[Hsieh NRO 45m CS(2-1) OTF map](https://zenodo.org/record/7708322#.ZAiKsnZBy5c)**
-* **[Jones MOPRA CMZ 3mm survey](http://newt.phys.unsw.edu.au/mopracmz/)**
-  * Survey details: [Jones+ 2012](http://newt.phys.unsw.edu.au/mopracmz/), 85-93 GHz; MOPRA; 40" spatial resolution; 0.9 km/s spectral resolution; -2.5 < l < 2.5, -0.5 < b < 0.5 spatial coverage; 42-83 mK/chan sensitivity; CMZ named target; lots of lines.
+* **[Jones MOPRA CMZ 3mm/7mm survey](https://web.archive.org/web/20240603110228/http://newt.phys.unsw.edu.au/mopracmz/)**
+  * Notes: original site is dead; link is to Wayback Machine mirror. 3mm/7mm CMZ data can be accessed at the [ATNF Archive](https://atoa.atnf.csiro.au/CMZ) but you need to make an OPAL login for the ATNF proposal system if you do not already have one. 
+  * Survey details: MOPRA; -0.7 < l  <1.8,  -0.3 < b < 0.2 including Sgr A, Sgr B2, Sgr C and G1.6-0.025
+  * 3mm data: [Jones+ 2012 paper](https://ui.adsabs.harvard.edu/abs/2012MNRAS.419.2961J/abstract)  85-93 GHz; 40" spatial resolution; 0.9 km/s spectral resolution; 42-83 mK/chan sensitivity;  20 lines
+  * 7mm data: [Jones+ 2013 paper](https://ui.adsabs.harvard.edu/abs/2013MNRAS.433..221J/abstract)  42-50 GHz;  65" spatial resolution; 1.8 km/s spectral resolution; 24-76 mK/chan sensitivity; 24 lines
 * **[Martin+ 2003 AST/RO CO 4-3, 7-6 & CI](https://www.cfa.harvard.edu/~aas/adair/www-docs/AST_RO/abc.html)**
 * **[McClure-Griffiths+ 2012 ATCA HI Galactic Center Survey](https://www.atnf.csiro.au/research/HI/sgps/GalacticCenter/Data.html)**
   * [paper](https://ui.adsabs.harvard.edu/abs/2012ApJS..199...12M/abstract)
@@ -136,7 +139,11 @@ No high-energy datasets are listed yet.
 ### Sgr B2
 
 * **[Ginsburg ALMA SgrB2 3mm mosaic](http://apps.canfar.net/storage/list/AstroDataCitationDOI/CISTI.CANFAR/17.0007/data/)**
-* **[Jones MOPRA SgrB2 3mm survey](http://newt.phys.unsw.edu.au/mopracmz/survey.html#sgrb2_3mm_table)**
+* **[Jones MOPRA SgrB2 3mm/7mm survey](https://web.archive.org/web/20240603110228/http://newt.phys.unsw.edu.au/mopracmz/)**
+  * Notes: original site is dead; link is to Wayback Machine mirror. 3mm/7mm Sgr B2 data can be accessed at the [ATNF Archive](https://atoa.atnf.csiro.au/CMZ) but you need to make an OPAL login for the ATNF proposal system if you do not already have one.
+  * [Jones+ 2008 paper](https://ui.adsabs.harvard.edu/abs/2008MNRAS.386..117J/abstract)
+  * [Jones+ 2011 paper](https://ui.adsabs.harvard.edu/abs/2011MNRAS.411.2293J/abstract)
+
 
 ### Dust Ridge, 20 and 50 km/s Clouds, and Sgr C
 
